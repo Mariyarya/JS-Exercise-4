@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+
+}
+*{
+    background-color: aquamarine;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
